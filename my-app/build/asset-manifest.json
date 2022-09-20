@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9f20799f.css",
+    "main.js": "./static/js/main.34d75b5d.js",
+    "static/media/photoes.png": "./static/media/photoes.d4653122e805993777b3.png",
+    "static/media/ikons.png": "./static/media/ikons.5bfd64475dded1b5cb76.png",
+    "static/media/Group 2.png": "./static/media/Group 2.02ec1e7910a470b27822.png",
+    "static/media/Ellipse 5.png": "./static/media/Ellipse 5.9d8ae58d27a335db161b.png",
+    "static/media/Ellipse 3.png": "./static/media/Ellipse 3.3acb57ae7bc8d858bf3d.png",
+    "static/media/Ellipse 4.png": "./static/media/Ellipse 4.dda3129eed99bae93774.png",
+    "static/media/Ellipse 6.png": "./static/media/Ellipse 6.696dfa0830c49cbbd0f4.png",
+    "static/media/statistic circle.png": "./static/media/statistic circle.81cb71054f87c9da0e5e.png",
+    "static/media/choose one.svg": "./static/media/choose one.935e12e59ebe6bf7e5a0483c42644f06.svg",
+    "static/media/logo.svg": "./static/media/logo.ae3b3d5e0f0f6cedd0e26c7972d4280f.svg",
+    "static/media/upload ikon.svg": "./static/media/upload ikon.0c46cc4c8f921bdc61732691924609f9.svg",
+    "static/media/dogcat ikon.svg": "./static/media/dogcat ikon.ea27ecb3720798f511aaf055e08355d6.svg",
+    "index.html": "./index.html",
+    "main.9f20799f.css.map": "./static/css/main.9f20799f.css.map",
+    "main.34d75b5d.js.map": "./static/js/main.34d75b5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f20799f.css",
+    "static/js/main.34d75b5d.js"
+  ]
+}
